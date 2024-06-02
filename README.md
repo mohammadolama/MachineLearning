@@ -20,8 +20,18 @@ This directory contains solutions to 2nd practical assignments.
 These homeworks focused on classical models like Linear Regression, Decision Trees, and SVM. These methods were applied on different datasets.
 
 
-## HW3
+### HW3
 This directory contains solutions to 3rd practical assignments.
 
-These homeworks focused on deep learning models. In one of the assignments we build a neural network from the ground using just "Numpy" library.
+These homeworks focused on basic deep learning models like Multi-Layer perceptron(MLP). In one of the assignments we build a neural network from the ground using just "Numpy" library.
 
+### HW4
+This directory contains solutions to last practical assignments.
+
+These homeworks focused on more advanced deep learning models like CNN, RNN, and Auto encoders.
+
+CNN: create a deep model to recognize and classify handwritten 0-8 digits.
+
+RNN: Image Captioning using Recurrent Neural Networks
+
+AutoEncoders: Compress and decompress a covid-19 dataset with minimal loss
