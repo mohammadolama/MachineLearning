@@ -15,7 +15,13 @@ We also used PCA, Umap, and random forests' feature selection property to identi
 
 
 ### HW2 
-This directory contains solutions to 2nd practical assignments. This homeworks focused on classical models like Linear Regression, Decision Trees, and SVM. These methods were applied on different datasets.
+This directory contains solutions to 2nd practical assignments.
+
+These homeworks focused on classical models like Linear Regression, Decision Trees, and SVM. These methods were applied on different datasets.
 
 
 ## HW3
+This directory contains solutions to 3rd practical assignments.
+
+These homeworks focused on deep learning models. In one of the assignments we build a neural network from the ground using just "Numpy" library.
+
